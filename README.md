@@ -1,0 +1,1 @@
+This repository demonstrates a common closure-related bug in JavaScript loops.  The `bug.js` file contains code that incorrectly uses `setTimeout` within a loop, leading to unexpected behavior. The correct implementation is provided in `bugSolution.js`, showcasing how to properly handle closures to capture the correct loop iteration values.
